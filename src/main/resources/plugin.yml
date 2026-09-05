@@ -1,0 +1,18 @@
+name: MiraTrades
+version: ${version}
+main: com.mira.trades.MiraTradesPlugin
+api-version: '1.21'
+authors: [FiveS]
+description: Secure escrowed player-to-player item and Vault-money trading for the Mira suite.
+depend: [MiraCore, Vault]
+
+commands:
+  trade:
+    description: Request and manage secure player trades.
+    usage: /trade <player|accept|deny|cancel|toggle>
+    permission: miratrades.use
+
+permissions:
+  miratrades.use:
+    description: Allows normal MiraTrades use.
+    default: true
