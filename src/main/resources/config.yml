@@ -1,0 +1,14 @@
+requests:
+  expire-seconds: 30
+
+trade:
+  confirm-countdown-seconds: 3
+  max-money: 1000000000000.0
+  money-buttons:
+    small: 100.0
+    medium: 1000.0
+    large: 10000.0
+    huge: 100000.0
+
+messages:
+  prefix: "&5&lMira &8>> &r"
