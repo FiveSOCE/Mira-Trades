@@ -8,7 +8,7 @@ MiraTrades is the secure player-to-player trading module for the Mira Paper serv
 
 ## Download
 
-[**Download MiraTrades v0.1.1**](https://github.com/FiveSOCE/Mira-Trades/releases/download/v0.1.1/MiraTrades-0.1.1.jar)
+[**Download MiraTrades v0.1.1**](https://github.com/FiveSOCE/Mira-Trades/releases/download/v0.1.2/MiraTrades-0.1.2.jar)
 
 [View All Releases](https://github.com/FiveSOCE/Mira-Trades/releases)
 
