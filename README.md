@@ -1,16 +1,18 @@
 # MiraTrades
 
+## Download
+
+**Latest compatibility release: v0.1.2**
+
+[**Download MiraTrades-0.1.2.jar**](https://github.com/FiveSOCE/Mira-Trades/releases/download/v0.1.2/MiraTrades-0.1.2.jar)
+
+[View all releases](https://github.com/FiveSOCE/Mira-Trades/releases)
+
 MiraTrades is the secure player-to-player trading module for the Mira Paper server suite. It supports escrowed item trading, Vault-backed money offers, dual confirmation, persistent trade-request preferences, and recovery-safe cancellation handling.
 
 ## Current Version
 
 **v0.1.1**
-
-## Download
-
-[**Download MiraTrades v0.1.1**](https://github.com/FiveSOCE/Mira-Trades/releases/download/v0.1.2/MiraTrades-0.1.2.jar)
-
-[View All Releases](https://github.com/FiveSOCE/Mira-Trades/releases)
 
 ## Requirements / Dependencies
 
