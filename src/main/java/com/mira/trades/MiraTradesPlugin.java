@@ -49,7 +49,7 @@ public final class MiraTradesPlugin extends JavaPlugin implements TabExecutor {
         core.modules().register(this, "MiraTrades");
         core.modules().setHealth(this, ModuleHealth.HEALTHY,
                 "Secure escrow item trading, Vault money offers and request privacy controls ready");
-        getLogger().info("MiraTrades v" + getPluginMeta().getVersion() + " enabled.");
+        getLogger().info("MiraTrades v" + getDescription().getVersion() + " enabled.");
     }
 
     @Override
